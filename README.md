@@ -1,2 +1,2 @@
-# Array-in-Java
+# Array
 Practice
